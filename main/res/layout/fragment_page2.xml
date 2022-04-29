@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:src="@drawable/welcome3"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/natural_amp_healthy"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:text="Fasting gets you into ketosis which is referred to as the body's fat-burning mode. Your body
+will burn fat, detoxify and regenerate in a natural way."
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textStyle="normal"
+        android:gravity="top"
+        />
+
+
+
+</LinearLayout>

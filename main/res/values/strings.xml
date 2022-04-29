@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GetFit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="natural_and_healthy">Natural and Healthy</string>
+    <string name="no_diet">NO DIET</string>
+    <string name="natural_amp_healthy"><![CDATA[Natural & Healthy]]></string>
+    <string name="effective_amp_safe"><![CDATA[Effective & Safe]]></string>
+    <string name="beginner_friendly">Beginner Friendly</string>
+</resources>
